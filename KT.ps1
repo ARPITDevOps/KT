@@ -29,5 +29,5 @@ else
 ls C:\Users\DELL\Documents
 dir C:\Users\DELL\Documents
 
-dir C:\Users\DELL\Documents | Out-File -FilePath C:\PowershellScripts\KT.txt
+ls C:\Users\DELL\Documents | Out-File -FilePath C:\PowershellScripts\KT.txt
 dir C:\Users\DELL\Documents | Out-File -FilePath C:\PowershellScripts\KT.csv
