@@ -1,4 +1,4 @@
-﻿Get-Service
+﻿Get-Service // shw service
 
 Get-Service | Select-Object Status, Name
 
