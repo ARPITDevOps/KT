@@ -31,3 +31,5 @@ dir C:\Users\DELL\Documents
 
 ls C:\Users\DELL\Documents | Out-File -FilePath C:\PowershellScripts\KT.txt
 dir C:\Users\DELL\Documents | Out-File -FilePath C:\PowershellScripts\KT.csv
+
+cls
